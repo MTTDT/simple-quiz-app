@@ -1,5 +1,4 @@
-import { Card, Image, Button, Link } from "@chakra-ui/react";
-import { Title } from "chart.js";
+import { Card, Link } from "@chakra-ui/react";
 
 
 export default function TopicCard({topic}: {topic: string}) {

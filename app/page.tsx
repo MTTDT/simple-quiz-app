@@ -1,4 +1,4 @@
-import { Button, HStack } from "@chakra-ui/react"
+import { HStack } from "@chakra-ui/react"
 import Header from "@/components/home-page/header"
 import TopicCard from "@/components/home-page/topic-card"
 export default function Home() {

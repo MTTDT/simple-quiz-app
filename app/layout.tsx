@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Provider } from "@/components/ui/provider"
-import { ColorMode } from "@/components/ui/color-mode";
 
 
 

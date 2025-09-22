@@ -1,7 +1,7 @@
 
 "use client"
 import { QuestionWithoutAnswer } from "@/app/types"
-import { Card, CardBody, CardHeader, Heading, VStack, Button, Text, Stack } from "@chakra-ui/react"
+import { Card, CardBody, CardHeader, Heading, VStack, Button, Text } from "@chakra-ui/react"
 import { useState } from "react"
 import { useColorModeValue } from "../ui/color-mode"
 

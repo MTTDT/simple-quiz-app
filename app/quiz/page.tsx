@@ -37,7 +37,7 @@ export default function Page(){
 
         }
         getData()
-    },[])
+    },[topic])
     useEffect(() => {
         async function getAnswerData(){
             try{
