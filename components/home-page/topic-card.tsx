@@ -2,7 +2,6 @@ import { Card, Link } from "@chakra-ui/react";
 
 
 export default function TopicCard({topic}: {topic: string}) {
-    console.log(topic);
     return(
         <Link href={`/quiz?topic=${topic.toLowerCase().replaceAll(' ','-')}`} _hover={{ textDecoration: 'none' }}
         >

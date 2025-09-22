@@ -7,7 +7,6 @@ export async function GET(request: Request) {
     const { searchParams } = new URL(request.url);
     const id = searchParams.get("id");
 
-    console.log('topic', searchParams.get("topic"));
 
     const fileName = 'questions-'+searchParams.get("topic") + '.json';
        
@@ -18,8 +17,6 @@ export async function GET(request: Request) {
     const result: string = questionsData.find((q: Question)  => (
        q.id.toString() === id
     ))?.answer || "Answer not found";
-
-    console.log("Fetched answer:", result);
   
     return NextResponse.json(result);
 }
