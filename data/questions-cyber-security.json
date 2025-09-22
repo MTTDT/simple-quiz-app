@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes phishing?",
+    "options": [
+      "An attack that floods a network with traffic to make services unavailable",
+      "A method of tricking users into revealing sensitive information via fake emails or websites",
+      "A type of malware that locks files and demands ransom",
+      "A security protocol used to encrypt data during transmission"
+    ],
+    "answer": "A method of tricking users into revealing sensitive information via fake emails or websites"
+  },
+  {
+    "id": 2,
+    "question": "What does the principle of 'least privilege' mean in cybersecurity?",
+    "options": [
+      "Users should have access to all resources for efficiency",
+      "Users should only have access necessary to perform their job",
+      "Administrators should share their credentials for backups",
+      "Users should be logged out automatically after 24 hours"
+    ],
+    "answer": "Users should only have access necessary to perform their job"
+  },
+  {
+    "id": 3,
+    "question": "What is two-factor authentication (2FA)?",
+    "options": [
+      "Using two passwords at the same time",
+      "A process requiring two forms of identification to access an account",
+      "Logging in twice in a row for verification",
+      "Automatically changing your password every two months"
+    ],
+    "answer": "A process requiring two forms of identification to access an account"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a strong password practice?",
+    "options": [
+      "Using 'password123' for all accounts for convenience",
+      "Using a long, complex password with letters, numbers, and symbols",
+      "Writing passwords on sticky notes near your desk",
+      "Sharing your password with teammates for easy access"
+    ],
+    "answer": "Using a long, complex password with letters, numbers, and symbols"
+  }
+]

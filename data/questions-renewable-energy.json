@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is considered a renewable energy source?",
+      "options": [
+        "Coal",
+        "Natural Gas",
+        "Solar Power",
+        "Nuclear Energy"
+      ],
+      "answer": "Solar Power"
+    },
+    {
+      "id": 2,
+      "question": "What is the primary advantage of wind energy?",
+      "options": [
+        "It produces no greenhouse gas emissions during operation",
+        "It requires no upfront investment",
+        "It can store large amounts of electricity",
+        "It is available 24/7 everywhere"
+      ],
+      "answer": "It produces no greenhouse gas emissions during operation"
+    },
+    {
+      "id": 3,
+      "question": "Which renewable energy source uses water flow to generate electricity?",
+      "options": [
+        "Hydropower",
+        "Geothermal",
+        "Solar Panels",
+        "Biomass"
+      ],
+      "answer": "Hydropower"
+    },
+    {
+      "id": 4,
+      "question": "Why is solar energy considered sustainable?",
+      "options": [
+        "It relies on finite fuel sources",
+        "The sun provides an abundant, long-term energy supply",
+        "It produces large amounts of greenhouse gases",
+        "It consumes a lot of water"
+      ],
+      "answer": "The sun provides an abundant, long-term energy supply"
+    }
+  ]
+  

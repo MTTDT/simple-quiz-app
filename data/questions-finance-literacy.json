@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is considered a liquid asset?",
+        "options": [
+            "Real Estate",
+            "Savings Account",
+            "Car",
+            "Art Collection"
+        ],
+        "answer": "Savings Account"
+    },
+    {
+        "id": 2,
+        "question": "What is the primary advantage of investing in a diversified portfolio?",
+        "options": [
+            "It eliminates all risk",
+            "It reduces the impact of any single investment's poor performance",
+            "It guarantees high returns",
+            "It requires no research"
+        ],
+        "answer": "It reduces the impact of any single investment's poor performance"
+    },
+    {
+        "id": 3,
+        "question": "Which financial instrument allows you to lend money to a company or government in exchange for interest?",
+        "options": [
+            "Stocks",
+            "Bonds",
+            "Mutual Funds",
+            "Cryptocurrency"
+        ],
+        "answer": "Bonds"
+    },
+    {
+        "id": 4,
+        "question": "Why is compound interest considered powerful in personal finance?",
+        "options": [
+            "It decreases the value of your savings over time",
+            "It allows your investment to grow faster as interest is earned on interest",
+            "It eliminates taxes",
+            "It provides instant returns"
+        ],
+        "answer": "It allows your investment to grow faster as interest is earned on interest"
+    }
+]
